@@ -23,20 +23,20 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home](https://i.ibb.co/Q3g7MmT/Home.jpg)
+<a href="https://ibb.co/QvyrSV6R"><img src="https://i.ibb.co/nMxzdyDv/Home.jpg" alt="Home" border="0" /></a>
 
 ### ⏳ History
 <a href="https://ibb.co/C3JN8Z4K"><img src="https://i.ibb.co/v6sgqGf4/History.jpg" alt="History" border="0" /></a>
 
 ### ✨ Explore Feed
-![Explore](https://i.ibb.co/C3JN8Z4/Explore.jpg)
+<a href="https://ibb.co/r2pq6cLZ"><img src="https://i.ibb.co/Jjp87ybz/Explore.jpg" alt="Explore" border="0" /></a>
 
 ### 🎨 Customize App
 <a href="https://ibb.co/Q3g7Mmtn"><img src="https://i.ibb.co/LXFD1pH6/Customize.jpg" alt="Customize" border="0" /></a>
 
 
 ### 🖼️ AI Output View
-![AI Result](https://i.ibb.co/FbFvLKx/Wings.jpg)
+<a href="https://ibb.co/FbFvLKxw"><img src="https://i.ibb.co/vxS56HwP/Home-Screen.jpg" alt="Home-Screen" border="0" /></a>
 
 ---
 
