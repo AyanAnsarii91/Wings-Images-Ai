@@ -26,7 +26,7 @@
 ![Home](https://i.ibb.co/Q3g7MmT/Home.jpg)
 
 ### ⏳ History
-<img src="https://i.ibb.co/1tshQ5BG/History.jpg" alt="History" border="0" />
+https://ibb.co/C3JN8Z4K
 
 ### ✨ Explore Feed
 ![Explore](https://i.ibb.co/C3JN8Z4/Explore.jpg)
