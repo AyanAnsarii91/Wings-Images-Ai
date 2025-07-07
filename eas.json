@@ -1,0 +1,20 @@
+{
+  "cli": {
+    "version": ">=16.13.4",
+    "appVersionSource": "local"
+  },
+  "build": {
+    "apk": {
+      "android": {
+        "buildType": "apk",
+        "autoIncrement": false
+      }
+    },
+    "production": {
+      "android": {
+        "buildType": "app-bundle",
+        "autoIncrement": true
+      }
+    }
+  }
+}

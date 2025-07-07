@@ -1,37 +1,80 @@
-# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+# --------------------------------------
+# ✅ Basic GitHub Reference
+# Learn more: https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+# --------------------------------------
 
-# dependencies
+# --------------------------------------
+# 🔧 Dependencies & Package Caches
+# --------------------------------------
 node_modules/
-
-# Expo
-.expo/
+.cache/
 dist/
+build/
 web-build/
 expo-env.d.ts
 
-# Native
-.kotlin/
-*.orig.*
+# --------------------------------------
+# 🧪 Expo Generated Files
+# --------------------------------------
+.expo/
+.expo-shared/
+
+# --------------------------------------
+# 🧠 React Native Platform Folders
+# --------------------------------------
+android/
+ios/
+
+# --------------------------------------
+# 🧠 Native Keystore & Secrets
+# --------------------------------------
 *.jks
 *.p8
 *.p12
 *.key
 *.mobileprovision
+*.orig.*
+*.pem
 
-# Metro
-.metro-health-check*
+# --------------------------------------
+# ⚙️ Editor & OS Specific
+# --------------------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
 
-# debug
+# --------------------------------------
+# ⚠️ Sensitive Files
+# --------------------------------------
+.env
+.env*.local
+app.config.js
+app.json
+eas.json
+
+# --------------------------------------
+# 📦 Build Outputs (APKs etc.)
+# --------------------------------------
+*.apk
+*.aab
+
+# --------------------------------------
+# 🧯 Debugging & Logs
+# --------------------------------------
+*.log
 npm-debug.*
 yarn-debug.*
 yarn-error.*
 
-# macOS
-.DS_Store
-*.pem
+# --------------------------------------
+# 🧰 Metro Cache & Health
+# --------------------------------------
+.metro-health-check*
+metro-cache/
 
-# local env files
-.env*.local
-
-# typescript
+# --------------------------------------
+# TypeScript Build Info
+# --------------------------------------
 *.tsbuildinfo

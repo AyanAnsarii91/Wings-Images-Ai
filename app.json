@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "wings-ai",
+    "name": "Wings Ai",
     "slug": "wings-ai",
+    "owner": "ayanansarii",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
@@ -16,14 +16,26 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.ayanansarii.wingsai",
+      "versionCode": 6,
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font"
+      
+     
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "de023c0d-3d5c-448a-9302-6cea01850a4a"
+      }
     }
   }
 }
