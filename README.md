@@ -32,7 +32,7 @@
 ![Explore](https://i.ibb.co/C3JN8Z4/Explore.jpg)
 
 ### 🎨 Customize App
-<img src="https://i.ibb.co/QvyrSV6/Customize.jpg" width="500" alt="Customize Screen"/>
+<a href="https://ibb.co/Q3g7Mmtn"><img src="https://i.ibb.co/LXFD1pH6/Customize.jpg" alt="Customize" border="0" /></a>
 
 
 ### 🖼️ AI Output View
