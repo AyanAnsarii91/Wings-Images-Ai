@@ -1,54 +1,55 @@
 # 🚀 Wings Images AI
 
-**Wings AI** is a sleek and powerful mobile app built with React Native (Expo), powered by **Gemini Image Generation API** and **Firebase**. This app allows users to turn text prompts into stunning AI-generated images, explore 50+ creative surprise prompts, and manage their creations effortlessly.
+**Wings AI** is a sleek and powerful React Native (Expo) app powered by **Gemini Image Generation API** and **Firebase**, built for creative minds to generate stunning AI images from text prompts.
 
-![Wings AI Home](./screenshots/Home.jpg)
+![WingsAI Home](https://i.ibb.co/Q3g7MmT/Home.jpg)
 
 ---
 
 ## ✨ Features
 
 - 🎨 AI Image Generation via Gemini API
-- 🎲 “Surprise Me” with 50+ creative prompts
-- 🌗 Light/Dark Theme Toggle
-- 🔧 UI Customization with live preview
-- 📜 History of generated prompts
-- 🔐 Firebase Authentication (Login, Signup, Logout)
-- 🖼️ Image Download & Share
-- 📱 Responsive bottom tab navigation
-- ⚡ Built with modern UI/UX standards
-
-![History Screen](./screenshots/History.jpg)
-![Explore Feed](./screenshots/Explore.jpg)
-![Customize App](./screenshots/Customize.jpg)
+- 🎲 50+ Surprise Prompts
+- 🌗 Light/Dark Mode Toggle
+- 🔧 Customizable UI (Gradient, Speed, App Title)
+- 🕘 Prompt History with Timestamp
+- 🔐 Firebase Auth (Signup/Login/Logout)
+- 📥 Save/Share AI Images
+- 📱 Bottom Tab Navigation
+- ⚡ Clean, responsive, Gen-Z-friendly UI
 
 ---
 
-## 🔧 Tech Stack
+## 📸 Screenshots
 
-| Tech          | Description                           |
-|---------------|----------------------------------------|
-| **React Native (Expo)** | Cross-platform mobile development framework |
-| **Firebase**  | Auth + Storage + Real-time sync        |
-| **Gemini API**| AI image generation from text prompts  |
+### 🏠 Home Screen
+![Home](https://i.ibb.co/Q3g7MmT/Home.jpg)
 
----
+### ⏳ History
+![History](https://i.ibb.co/r2pq6cL/History.jpg)
 
-## 📱 Screenshots
+### ✨ Explore Feed
+![Explore](https://i.ibb.co/C3JN8Z4/Explore.jpg)
 
-> Here are some in-app screenshots showing off the sleek interface:
+### 🎨 Customize App
+![Customize](https://i.ibb.co/QvyrSV6/Customize.jpg)
 
-| Home | History | Explore |
-|------|---------|---------|
-| ![](./screenshots/Home.jpg) | ![](./screenshots/History.jpg) | ![](./screenshots/Explore.jpg) |
-
-| Customize | Another Home View |
-|-----------|-------------------|
-| ![](./screenshots/Customize.jpg) | ![](./screenshots/HomeScreen.jpg) |
+### 🖼️ AI Output View
+![AI Result](https://i.ibb.co/FbFvLKx/Wings.jpg)
 
 ---
 
-## 📦 Installation
+## 🧠 Tech Stack
+
+| Tech             | Description                              |
+|------------------|------------------------------------------|
+| **React Native** | Cross-platform app using Expo            |
+| **Firebase**     | Authentication + Firestore + Storage     |
+| **Gemini API**   | Image generation from text prompts       |
+
+---
+
+## ⚙️ Installation
 
 ```bash
 git clone https://github.com/AyanAnsarii91/Wings-Images-Ai.git
