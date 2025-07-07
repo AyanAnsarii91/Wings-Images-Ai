@@ -2,7 +2,7 @@
 
 **Wings AI** is a sleek and powerful React Native (Expo) app powered by **Gemini Image Generation API** and **Firebase**, built for creative minds to generate stunning AI images from text prompts.
 
-![WingsAI Home](https://i.ibb.co/Q3g7MmT/Home.jpg)
+<a href="https://ibb.co/ZpbCpQMf"><img src="https://i.ibb.co/ZpbCpQMf/icon.png" alt="icon" border="0" /></a>
 
 ---
 
